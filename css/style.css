@@ -24,14 +24,17 @@ text-align:center;
 
 /* Important Movie */
 .importantMovie {
-	background-color: #383838;
+
 }
-.bigMovie {
+.bigMovieImg {
 	height: 500px;
-	
+	overflow: hidden;
 }
 .textMovie {
-	background-color: #383838;
+		background-color: #383838;
+		padding-top: 50px;
+		padding-bottom: 73.3%;
+		padding-right: 30px;
 }
 
 /* Gallery Movie */
