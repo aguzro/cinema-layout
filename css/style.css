@@ -1,0 +1,67 @@
+/* Header */
+.textHeader {
+
+}
+.searcher {
+float: right;
+}
+#searchthis #search-btn {
+	display:none;
+}
+#searchthis #search-box{
+background: transparent;
+border:none;
+color: #000;
+border: 1px solid #D3D1D1;
+height:34px;
+float: center;
+width:212px;
+font: normal normal 10px 'Arial', ans-serif;
+letter-spacing: 1px;
+text-align:center;
+}
+
+
+/* Important Movie */
+.importantMovie {
+	background-color: #383838;
+}
+.bigMovie {
+	height: 500px;
+	
+}
+.textMovie {
+	background-color: #383838;
+}
+
+/* Gallery Movie */
+.galleryMovie {
+	background-color: #dfb636;
+	top: 5px;
+}
+.imageGallery1 {
+	width: 100%;
+	height: 250px;
+	margin: 20px 0 20px 0;
+}
+
+/* Trailer */
+.video {
+	width: 100%; 
+	height: 315px;
+	padding: 20px 20px 20px 20px;  
+}
+
+/* Ticket and News */
+
+
+/*  Second Gallery Movie */
+.imageGallery2 {
+	width: 100%;
+	height: 350px;
+}
+
+/* Footer */
+.disclaimer {
+	background-color: #f3f3f3;
+}
